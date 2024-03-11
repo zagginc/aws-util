@@ -1,0 +1,1 @@
+{"version":3,"file":"kinesis-utilities.d.ts","sourceRoot":"","sources":["../../../src/aws/kinesis/kinesis-utilities.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,mBAAmB,EAAE,0BAA0B,EAAE,MAAM,YAAY,CAAC;AAElF;;;;;;;GAOG;AACH,wBAAgB,qBAAqB,CACpC,KAAK,EAAE,mBAAmB,GAAG,0BAA0B,EACvD,MAAM,EAAE,mBAAmB,GAAG,0BAA0B,GACtD,MAAM,CAQR"}
